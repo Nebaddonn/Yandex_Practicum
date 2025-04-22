@@ -4,6 +4,6 @@
 
 |Название                                                         | Задачи                        | Стек                                                                      |
 | :--------------------------------------------------------       | :---------------------------- | :------------------------------------------------------------------------ |
-| 1. [Анализ аренды самокатов](/main/skate_rent_analysis.ipynb)        | Статистический анализ данных  |  pandas, matplotlib, numpy, scipy, binom, poisson, norm, sqrt, factorial  |
+| 1. [Анализ аренды самокатов](/Yandex_Practicum/main/skate_rent_analysis.ipynb)        | Статистический анализ данных  |  pandas, matplotlib, numpy, scipy, binom, poisson, norm, sqrt, factorial  |
 | 2. [Рынок недвижимости СПб](/spb_real_estate.ipynb)             | Определить рыночную стоимость объектов недвижимости | pandas, matplotlib, numpy                           |
 
