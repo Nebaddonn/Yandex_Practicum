@@ -4,9 +4,9 @@
 1. [Анализ аренды самокатов](https://github.com/Nebaddonn/Yandex_Practicum/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D1%8B%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BA%D0%B0%D1%82%D0%BE%D0%B2)
 
 
-Название      | Цели и задачи | Навыки и инструменты
+Название                     | Задачи                       | Стек
+---------------------------- | ---------------------------- | --------------------
+0. [Анализ аренды самокатов] | Статистический анализ данных |  pandas, matplotlib, numpy, scipy, binom, poisson, norm, sqrt, factorial
 ------------- | ------------- | --------------------
-0. [Анализ аренды самокатов](https://github.com/Nebaddonn/Yandex_Practicum/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D1%8B%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BA%D0%B0%D1%82%D0%BE%D0%B2)  | Статистический анализ данных,  |
 
-
-Content Cell  | Content Cell  |
+1. | test | Content Cell  |
